@@ -150,7 +150,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or feedback, feel free to reach out:
 
 - **Saksham**  
-  Email: saksham@example.com  
+  Email: sakshamojha033@gmail.com
   GitHub: [sakshame](https://github.com/sakshame)
 
 ---
