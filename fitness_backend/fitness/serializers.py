@@ -9,7 +9,6 @@ from django.shortcuts import get_object_or_404
 from django.urls import path
 from .models import CustomUser
 
-# Serializers
 class UserSerializer(serializers.ModelSerializer):
     class Meta:
         model = CustomUser
